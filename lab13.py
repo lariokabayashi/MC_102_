@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 sys.setrecursionlimit(1500)
 
@@ -118,5 +117,4 @@ for i in dict_submagias:
 print("---")
 print(f"Total de submagia(s) conjurada(s): {total_de_submagias(dict_submagias, 0)}")    
 print(f"Total de PM gasto: {total_de_PM(dict_submagias, 0)}")
->>>>>>> 49b15bf86efb2ad9861cb0a9968382c7def61cee
 print("---")
